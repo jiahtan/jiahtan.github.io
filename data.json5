@@ -1,0 +1,124 @@
+{
+  // 页面title
+  title: "Jiahui (Kavi) Tan",
+  // 社交链接
+  social: {
+    github: "https://github.com/jiahtan",
+    linkedin: "https://www.linkedin.com/in/jiahtan/",
+    resume: "../assets/KaviResumeLatex.pdf",
+  },
+  // banner页
+  banner: {
+    anchor: {
+      id: "banner",
+      icon: "home",
+      name: "HOME",
+    },
+    title: "JIAHUI (KAVI) TAN",
+    desc: [
+    ],
+  },
+  // 正文
+  // 不要修改各模块的 anchor.id
+  // 通过display控制模块是否展示
+  // 通过列表顺序控制模块展示顺序
+  modules: [
+    // 关于页
+    {
+      display: true,
+      anchor: {
+        id: "about",
+        icon: "user",
+        name: "ABOUT"
+      },
+      header: {
+        title: "information",
+        subtitle: "about me",
+      },
+      content: {
+        name: "Jiahui (Kavi) Tan",
+        desc: [
+        ],
+        md: "Seasoned data professional and cat trainer with experience providing data solutions across various industries ranging from education, sales, to my current area, trust.\
+        \nProficient in SQL, R, Python, Spark\
+        \nExperience in data analysis (data cleaning, experimental design, statistical models) and dashboard development using Tableau and R Shiny.\
+        \nOpen to opportunities.\
+        \n",
+      },
+      // key - value 数量及内容完全自定义，链接自动识别
+      keys: {
+        "PHONE": " 408-838-1822",
+        "EMAIL": " kavi.jiatan@gmail.com",
+        "LINKEDIN": "https://www.linkedin.com/in/jiahtan/",
+        "GITHUB": "https://github.com/jiahtan"
+      },
+    },
+    // 履历
+    {
+      display: true,
+      anchor: {
+        id: "experience",
+        icon: "idcard",
+        name: "EXPERIENCE"
+      },
+      header: {
+        title: "experience",
+        subtitle: "Professional Experiences ",
+      },
+      cards: [
+        {
+          title: "Swoon Group",
+          subtitle: "AUG. 2019 - Current",
+          md: "<h2>Contract Data Scientist, LinkedIn</h2>\
+         \n\
+          \n+ Create and automate reports and dashboards to track business metrics for Trust areas. + Monitor trend metrics and quickly identify the root cause of anomaly. \
+          \n+ ETL data, clean and validate data when needed.\
+          \n+ Understand the gap between member perceived fake account versus policy defined fake account. + Act as data science partner for messaging abuse through: \
+          \n   \t-Profile confirmed sexual harassers to identify behaviors and characteristics. \
+          \n  \t -Design A/B test to measure success of the inline warning product on protecting members from sexual harassment in the messaging product.\
+          \n  \t -Assemble a state of union for understanding the overall messaging abuse landscape.  \
+          \n  \t -Define the true north metric for this area for the team to goal towards and measure success. \
+          \n  \t -Size repeated sexual harassers to set threshold for earlier preventive measures on these members \
+          \n ",
+        },
+        {
+          title: "Adecco USA",
+          subtitle: "Nov. 2018 – Aug. 2019",
+          md: "<h2>Contract Data Analyst, Google</h2>\
+          \n\
+          \n+  Refactored all of the team’s current codebase relating to impact measurement to work with the new internal SQL syntax. \
+          \n+ Supported the international growth team by providing control/treatment group assignments balanced on metrics relating to prior year spend and revenue growth.\
+          \n+ Identified new internal data sources and tables for modeling and data validation. \
+          \n+ Profile confirmed sexual harassers to identify behaviors and characteristics. \
+          \n+ Prepared quarterly revenue reports for over nine sales programs by generating input data for the revenue impact models,\
+          \n running the impact models, performing quality assurance on input and output data, and updating impact dashboard with finalized results.\
+          \n ",
+        },
+        {
+          title: "UC Davis Center for Educational Effectiveness",
+          subtitle: "Jun. 2017 – Nov.2018 Feb. 2015 – Jun.2017",
+          md: "<h2>Data Analyst | Lead Student Programmer</h2>\
+          \n\
+          \n+ Used SQL to access data and use software such as R to merge, aggregate, manipulate, and clean data.\
+          \n+ Performed preliminary interpretations of the data analysis results and prepared timely, accurate, easy to read, and informative evaluation reports in a variety of formats.\
+          \n+ Designed and implemented effective data visualization dashboards in R Shiny and Tableau. \
+          \n+ Led meetings with internal and external stakeholders to clarify their needs and plan projects.\
+          \n+ Collaborated with the Lead Programmer to identify data quality problems and keep codebooks up to date.",
+        },
+      ],
+    },
+    // 博客页
+    {
+      display: true,
+      anchor: {
+        id: "blog",
+        icon: "code",
+        name: "SKILLS",
+      },
+      header: {
+        title: "SKILLS",
+        subtitle: "PROFESSIONAL SKILLS",
+      },
+    },
+  ],
+}
