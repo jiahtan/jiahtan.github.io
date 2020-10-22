@@ -67,11 +67,10 @@
       },
       cards: [
         {
-          title: "Swoon Group",
-          subtitle: "AUG. 2019 - Current",
-          md: "<h2>Contract Data Scientist, LinkedIn</h2>\
-         \n\
-          \n+ Create and automate reports and dashboards to track business metrics for Trust areas. + Monitor trend metrics and quickly identify the root cause of anomaly. \
+          title: "Contract Data Scientist, LinkedIn",
+          time:"AUG. 2019 - Current",
+          subtitle: "Swoon Group | Sunnyvale, CA",
+          md: "+ Create and automate reports and dashboards to track business metrics for Trust areas. + Monitor trend metrics and quickly identify the root cause of anomaly. \
           \n+ ETL data, clean and validate data when needed.\
           \n+ Understand the gap between member perceived fake account versus policy defined fake account. + Act as data science partner for messaging abuse through: \
           \n   \t-Profile confirmed sexual harassers to identify behaviors and characteristics. \
@@ -82,11 +81,10 @@
           \n ",
         },
         {
-          title: "Adecco USA",
-          subtitle: "Nov. 2018 – Aug. 2019",
-          md: "<h2>Contract Data Analyst, Google</h2>\
-          \n\
-          \n+  Refactored all of the team’s current codebase relating to impact measurement to work with the new internal SQL syntax. \
+          title: "Contract Data Analyst, Google",
+          time:"Nov. 2018 – Aug. 2019",
+          subtitle: "Adecco USA | Redwood City, CA",
+          md: "+  Refactored all of the team’s current codebase relating to impact measurement to work with the new internal SQL syntax. \
           \n+ Supported the international growth team by providing control/treatment group assignments balanced on metrics relating to prior year spend and revenue growth.\
           \n+ Identified new internal data sources and tables for modeling and data validation. \
           \n+ Profile confirmed sexual harassers to identify behaviors and characteristics. \
@@ -95,11 +93,10 @@
           \n ",
         },
         {
-          title: "UC Davis Center for Educational Effectiveness",
-          subtitle: "Jun. 2017 – Nov.2018 Feb. 2015 – Jun.2017",
-          md: "<h2>Data Analyst | Lead Student Programmer</h2>\
-          \n\
-          \n+ Used SQL to access data and use software such as R to merge, aggregate, manipulate, and clean data.\
+          title: "Data Analyst | Lead Student Programmer",
+          time:"Jun. 2017 – Nov.2018 Feb. 2015 – Jun.2017",
+          subtitle: "UC Davis Center for Educational Effectiveness | Davis, CA",
+          md: "+ Used SQL to access data and use software such as R to merge, aggregate, manipulate, and clean data.\
           \n+ Performed preliminary interpretations of the data analysis results and prepared timely, accurate, easy to read, and informative evaluation reports in a variety of formats.\
           \n+ Designed and implemented effective data visualization dashboards in R Shiny and Tableau. \
           \n+ Led meetings with internal and external stakeholders to clarify their needs and plan projects.\
